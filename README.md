@@ -1,1 +1,1 @@
-# Repo for signal processing projects from ECE 160 Spring 2022 @ UCSB
+# ECE 160 Projects: UCSB Spring 2022
